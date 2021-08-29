@@ -9,7 +9,7 @@ var man= {
 
 function f1() {
 var out="";
-    var outt="";
+    
 man.ФИО = document.forms["form1"]['name'].value;
    
 for (key in man){
